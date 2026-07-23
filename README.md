@@ -55,14 +55,14 @@ This repository contains Python practice, data notebooks, visualization examples
 - `KDEplot.ipynb`
 - `Seaborn_Basic.ipynb`
 
-### Machine-learning
+### Library Practice
 
 - `Gradient Descent.ipynb`
 - `Linear ALG.ipynb`
 - `Sallary prediction model.ipynb`
 - `Untitled.ipynb`
 
-### Machine_learning
+### Python Practice
 
 - `Gradient Descent.ipynb`
 - `Linear ALG.ipynb`
