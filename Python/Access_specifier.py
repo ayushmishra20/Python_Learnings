@@ -19,3 +19,10 @@ Harry
 
 '''
 
+class Sturdent:
+    name = "Ayush"
+    def __init__(self, name, id):
+        self.name = name
+        self.id = id
+        
+
