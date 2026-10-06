@@ -43,3 +43,7 @@ print(list_b)
 list_b = list(list_a)
 list_b = list_a[:]
 list_b = list_a.copy()
+
+# Deep Copying
+
+

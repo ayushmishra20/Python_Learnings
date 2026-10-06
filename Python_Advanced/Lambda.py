@@ -61,7 +61,7 @@ b = list(filter(lambda x: (x%2 == 0) , a))
 c = [x for x in a if x%2 == 0]
 print(b)
 print(c)
-
+0
 # reduce¶
 # reduce(func, seq), repeatedly applies the func to the elements and returns a single value.func takes 2 arguments.
 
